@@ -1,6 +1,6 @@
 [package]
 name = "drawille-nostd"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Demchuk Nazar"]
 edition = "2021"
 description = "A no_std version of the drawille crate."
