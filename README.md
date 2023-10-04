@@ -12,7 +12,7 @@ Usage
 
 ```toml
 [dependencies]
-drawille-nostd = "0.3.0"
+drawille-nostd = "0.1.1"
 ```
 
 ## License
