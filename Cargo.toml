@@ -8,5 +8,4 @@ license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-fnv = { version = "1.0.7", default-features = false }
 num-traits = { version = "0.2.16", default-features = false, features = ["libm"] }
